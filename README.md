@@ -1,4 +1,4 @@
-# Visit [braulo.xyz](https://braulo.xyz)
+# Visit [braulo.com](https://braulo.com)
 
 ## This is just my personal website
 

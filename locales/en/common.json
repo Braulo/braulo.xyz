@@ -29,5 +29,8 @@
   "sticker-role": "Developer",
   "fortnite-description-short": "Minigame for Android and IOS, designed for Fortnite",
   "fortnite-description": "A hybrid mobile app developed with IONIC, where users can earn points (V-Bucks), rank up, and compete against each other. The app featured a simple design but gained unexpected popularity, going viral in both the Play Store and App Store with over 100k downloads and around 500 daily active users. To handle live updates in both the app and the web, I used a combination of Firebase and MongoDB for efficient database management. The backend was fully written in Express.js, ensuring a robust and scalable server architecture. Unfortunately, due to copyright issues, the app was banned from both the Play Store and App Store a few months after its release.",
-  "fortnite-role": "Project Leader, Developer"
+  "fortnite-role": "Project Leader, Developer",
+  "kiwisy-description-short": "QR based ordering POS system",
+  "kiwisy-description": "Kiwisy is a next-generation QR-code ordering and management platform designed for restaurants, cafés, and hotels that want to go digital without the hassle. With Kiwisy, you can set up your entire point-of-sale system in just minutes instead of days no technical experience required. Customers simply scan a table or room-specific QR code to browse your digital menu, place orders, and make secure payments directly from their smartphones. Meanwhile, staff receive real-time order updates, manage inventory, and track performance through a powerful yet easy-to-use dashboard. Whether you run a cozy café, a bustling restaurant, or a hotel offering room service, Kiwisy helps you streamline operations, reduce wait times, and create a modern, contactless dining experience that guests love.",
+  "kiwisy-role": "Project Leader, Developer"
 }
